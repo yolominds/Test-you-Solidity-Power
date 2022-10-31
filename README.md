@@ -1,3 +1,5 @@
+# Test-you-Solidity-Power
+
 - VolcanoCoin contract
   At each point where you change your contract you should re deploy to the JavascriptVM
   and test your changes.
@@ -60,4 +62,3 @@
 19. We want to have a payments array for each user sending the payment. Create a
     mapping which returns an array of Payment structs when given this user's address.
     Resources
-# Test-you-Solidity-Power
